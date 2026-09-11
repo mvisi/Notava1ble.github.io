@@ -9,7 +9,7 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://notava1ble.github.io/',
+    site: 'https://mvisi.github.io/',
     integrations: [mdx(), sitemap(), react()],
     vite: {    plugins: [tailwindcss()],  },
 });
